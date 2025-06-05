@@ -9,11 +9,11 @@ Choose between hourly and daily forecasts by city 🌦️
 
 ### Tech Stack:
 
--Javascript
+- Javascript
 
--React
+- React
 
--Tailwind CSS
+- Tailwind CSS
 
 
 ### APIs:
